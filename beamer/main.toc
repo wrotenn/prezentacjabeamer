@@ -1,10 +1,10 @@
-\beamer@sectionintoc {1}{Wprowadzenie}{3}{0}{1}
-\beamer@sectionintoc {2}{Kariera w F1}{6}{0}{2}
-\beamer@sectionintoc {3}{Tabela wyników w latach 2006-2010}{7}{0}{3}
-\beamer@sectionintoc {4}{Powrót do F1}{10}{0}{4}
-\beamer@sectionintoc {5}{Dodatkowe aktywności}{13}{0}{5}
-\beamer@sectionintoc {6}{Wpływ na polski motorsport}{14}{0}{6}
-\beamer@sectionintoc {7}{Wpływ Kubicy na motorsport w Polsce}{16}{0}{7}
-\beamer@sectionintoc {8}{Zwycięstwa w wyścigach WEC}{17}{0}{8}
-\beamer@sectionintoc {9}{Najważniejsze zwycięstwa i osiągnięcia}{19}{0}{9}
-\beamer@sectionintoc {10}{Podsumowanie}{21}{0}{10}
+\beamer@sectionintoc {1}{Wprowadzenie}{4}{0}{1}
+\beamer@sectionintoc {2}{Kariera w F1}{7}{0}{2}
+\beamer@sectionintoc {3}{Tabela wyników w latach 2006-2010}{8}{0}{3}
+\beamer@sectionintoc {4}{Powrót do F1}{11}{0}{4}
+\beamer@sectionintoc {5}{Dodatkowe aktywności}{14}{0}{5}
+\beamer@sectionintoc {6}{Wpływ na polski motorsport}{15}{0}{6}
+\beamer@sectionintoc {7}{Wpływ Kubicy na motorsport w Polsce}{17}{0}{7}
+\beamer@sectionintoc {8}{Zwycięstwa w wyścigach WEC}{18}{0}{8}
+\beamer@sectionintoc {9}{Najważniejsze zwycięstwa i osiągnięcia}{20}{0}{9}
+\beamer@sectionintoc {10}{Podsumowanie}{22}{0}{10}
